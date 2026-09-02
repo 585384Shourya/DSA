@@ -1,0 +1,9 @@
+class Solution {
+    public boolean uniformArray(int[] nums1) {
+        ///Agar sare even hue to bhi true...
+        ///Agar sare odd hue to bhi true...
+        ///Agar kuch even ,aur kuch odd hue to bhi true,kuki (odd-even) or (even-odd) is also odd...
+
+        return true;
+    }
+}
